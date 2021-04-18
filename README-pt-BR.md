@@ -2,6 +2,7 @@
     <tr>
         <!-- Do not translate this table -->
         <td><a href="./README.md"> English </a></td>
+        <td><a href="./README-MR.md"> मराठी </a></td>
         <td><a href="./README-BN.md"> বাংলা </a></td>
         <td><a href="./README-CN.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
@@ -13,6 +14,7 @@
         <td><a href="./README-GR.md"> Ελληνικά </a></td>
         <td><a href="./README-FR.md"> Français </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
+        <td><a href="./README-KO.md"> 한국어 </a></td>
     </tr>
 </table>
 
@@ -41,7 +43,7 @@ Se você possui alguma dúvida ou comentário, por favor crie uma issue.
 ## Contribuindo com Open Source
 - [O Guia Definitivo para Contribuições Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Uma Introdução ao Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutoriais da DigitalOcean para te guiar ao sucesso nas contribuições aqui no GitHub.
-- [Issuehub.io](http://issuehub.io/) - Uma ferramenta para filtrar issues por rótulos e linguagens no GitHub.
+- [Issuehub.io](http://issuehub.pro/) - Uma ferramenta para filtrar issues por rótulos e linguagens no GitHub.
 - [Code Triage](https://www.codetriage.com/) - Outra ferramenta muito boa para encontrar repositórios populares e issues por linguagem.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Um repositório que relaciona projetos com ótimos bugs para novos contribuidores.
 - [Guias de Open Source](https://opensource.guide/) - Coleção de recursos para desenvolvedores, comunidades e empresas que desejam aprender como gerenciar e contribuir com projetos Open Source.

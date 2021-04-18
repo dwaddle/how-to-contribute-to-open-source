@@ -6,6 +6,7 @@
 </summary>
   <ul>
   <li><a href="./README.md"> English </a></li>
+  <li><a href="./README-MR.md"> मराठी </a></li>
   <li><a href="./README-BN.md"> বাংলা </a></li>
   <li><a href="./README-CN.md"> 中文 </a></li>
   <li><a href="./README-RU.md"> русский </a></li>
@@ -50,7 +51,7 @@
 
 - [SourceSort](https://www.sourcesort.com) - Колекция от проекти open source, които се нуждаят от помощ. Има възможност за търсене. Колекцията включва също и данни за неща, като например каква е процентната вероятност вашата заявка за сливане (pull request) да бъде одобрена и колко време са чака за отговор. Такива статистики биха били много полезни за начинаещи в open source приноса.
 
-- [Issuehub.io](http://issuehub.io/) - Инструмент за търсене по етикет (label) или език на issue-та(ишута) в GitHub.
+- [Issuehub.io](http://issuehub.pro/) - Инструмент за търсене по етикет (label) или език на issue-та(ишута) в GitHub.
 
 - [Code Triage](https://www.codetriage.com/) - Друг инструмент за намиране на популярни хранилища (repositories) и issue-та. Предоставя възможност за филтриране по език и като цяло е много приятен за ползване.
 

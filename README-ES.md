@@ -2,6 +2,7 @@
     <tr>
         <!-- Do not translate this table -->
         <td><a href="./README.md"> English </a></td>
+        <td><a href="./README-MR.md"> मराठी </a></td>
         <td><a href="./README-BN.md"> বাংলা </a></td>
         <td><a href="./README-CN.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
@@ -13,6 +14,7 @@
         <td><a href="./README-GR.md"> Ελληνικά </a></td>
         <td><a href="./README-FR.md"> Français </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
+        <td><a href="./README-KO.md"> 한국어 </a></td>
     </tr>
 </table>
 
@@ -41,7 +43,7 @@ Si tienes alguna pregunta o comentario, por favor crea un `issue` en este reposi
 ## Contribuyendo al código abierto en general
 - [Guía definitiva para contribuir al código abierto](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) por [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Una introducción al código abierto](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutoriales hechos por DigitalOcean para guiarte de manera exitosa en tu camino cómo colaborador en GitHub.
-- [Issuehub.io](http://issuehub.io/) - Buscador de `issues` en GitHub las cuáles puedes filtrar por tipo y lenguaje.
+- [Issuehub.io](http://issuehub.pro/) - Buscador de `issues` en GitHub las cuáles puedes filtrar por tipo y lenguaje.
 - [Code Triage](https://www.codetriage.com/) - Otro muy buen buscador de repositorios e `issues` filtradas por lenguaje de programación.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Repositorio de GitHub que acumula proyectos con issues fáciles y etiquetados para colaboradores recien iniciados.
 - [Guías de código abierto](https://opensource.guide/) - Colección de recursos para particulares, comunidades y empresas que quieren aprender cómo iniciar y contribuir en proyectos de código abierto.
